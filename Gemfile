@@ -24,6 +24,4 @@ group :production do
      gem 'rails_12factor'
 end
 
-group :doc do
-	gem 'sdoc', require: false
-end	
+
